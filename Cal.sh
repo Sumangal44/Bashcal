@@ -4,12 +4,12 @@ clear
 
 echo -e "\033[1mHello User"
 echo -e "\033[33mThis is A Calculator and You can perform Basic Task"
-echo -e "\033[31m\033[4m............................\033[0m" 
+echo -e "\033[31m\033[4m........sumangal...........\033[0m" 
 echo -e "\033[1m"
 read -p $'\033[33m[\033[32m!\033[33m]\033[34m Enter the First Number : \033[32m' num1
 read -p $'\033[33m[\033[32m!\033[33m]\033[34m Enter the Second Number : \033[32m' num2
 
-echo -e "\033[4m............................"
+echo -e "\033[4m...........sumangal............"
 echo
 echo -e "\033[32m[\033[33m1\033[32m]\033[31m \033[4mAddition"
 
